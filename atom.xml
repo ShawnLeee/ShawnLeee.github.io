@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[小蜗牛]]></title>
+  <title><![CDATA[]]></title>
   <link href="http://shawnleee.github.io/atom.xml" rel="self"/>
   <link href="http://shawnleee.github.io/"/>
-  <updated>2016-04-03T21:56:48+08:00</updated>
+  <updated>2016-04-03T22:14:32+08:00</updated>
   <id>http://shawnleee.github.io/</id>
   <author>
     <name><![CDATA[追风筝的小蜗牛]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Swift 学习笔记]]></title>
-    <link href="http://shawnleee.github.io/blog/2016/04/03/slhjgdh/"/>
+    <link href="http://shawnleee.github.io/blog/slhjgdh/"/>
     <updated>2016-04-03T21:02:07+08:00</updated>
-    <id>http://shawnleee.github.io/blog/2016/04/03/slhjgdh</id>
+    <id>http://shawnleee.github.io/blog/slhjgdh</id>
     <content type="html"><![CDATA[<h3>在对象内部直接访问实例变量</h3>
 
 <ul>
@@ -26,6 +26,8 @@
 <li>使用惰性加载的数据应该通过属性来读取数据。</li>
 </ul>
 
+
+<p>_</p>
 
 <h3>理解“对象的等同性”这一概念</h3>
 
