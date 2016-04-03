@@ -13,7 +13,7 @@ description:
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
 # Additionally, %o will give you the ordinal representation of the day
-date_format: "% 年%-m 月%-d  日"
+date_format: "%Y 年%-m 月%-d  日"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
@@ -33,12 +33,12 @@ destination: public
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
-markdown: rdiscount
-rdiscount:
-  extensions:
-    - autolink
-    - footnotes
-    - smart
+markdown: kramdown
+#rdiscount:
+#  extensions:
+#    - autolink
+#    - footnotes
+#    - smart
 highlighter: pygments # default python pygments have been replaced by pygments.rb
 
 paginate: 10          # Posts per page on the blog index
