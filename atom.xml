@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://shawnleee.github.io/atom.xml" rel="self"/>
   <link href="http://shawnleee.github.io/"/>
-  <updated>2016-04-03T21:27:55+08:00</updated>
+  <updated>2016-04-03T21:38:34+08:00</updated>
   <id>http://shawnleee.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,14 @@
     <link href="http://shawnleee.github.io/blog/2016/04/03/slhjgdh/"/>
     <updated>2016-04-03T21:02:07+08:00</updated>
     <id>http://shawnleee.github.io/blog/2016/04/03/slhjgdh</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h3>Myfirst</h3>
+
+<ul>
+<li>hofgdsh</li>
+<li>gdoish</li>
+<li>hgodsgh</li>
+</ul>
+
 ]]></content>
   </entry>
   

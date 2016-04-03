@@ -10,7 +10,7 @@
 
   
   <meta name="description" content=" Blog Archive 2016 Slhjgdh
-Apr 03 2016 Recent Posts Slhjgdh Included file 'category_list.html' not found in _includes directory ">
+Apr 03 2016 Recent Posts Slhjgdh Categories {% category_list %} ">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -110,7 +110,13 @@ Apr 03 2016 Recent Posts Slhjgdh Included file 'category_list.html' not found in
 
 
 
-Included file 'category_list.html' not found in _includes directory
+<section>
+  <h1>Categories</h1>
+    <ul id="categories">
+        {% category_list %} 
+    </ul>
+</section>
+
   
 </aside>
 
