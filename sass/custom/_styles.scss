@@ -37,3 +37,22 @@ footer[role=contentinfo] {
     top: 0;
   }
 }
+#markdown-toc:before {
+ 
+      content: "本页目录";
+      color: #00ff00;
+      font-weight: bold;
+
+}
+
+.blog-index #markdown-toc{
+    display : none;
+}
+ul#markdown-toc {
+      list-style: none;
+      color:white;
+      float: right;
+      @include shadow-box;
+      background-color: #444749;
+}
+
